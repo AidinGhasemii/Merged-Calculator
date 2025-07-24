@@ -20,3 +20,22 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# فایل‌های پایتون
+pycache/
+*.pyc
+
+# فایل‌های مجازی
+env/
+venv/
+
+# فایل‌های IDE
+.vscode/
+.idea/
+
+# فایل‌های خروجی
+*.log
+*.db
+
+# فایل‌های حساس
+.env
